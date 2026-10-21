@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAI — Intelligent Threat Detection & Security Operations Platform",
+  "description": "Production-grade cybersecurity operations center (SOC) simulator with real-time synthetic threat monitoring, signature and behavioral anomaly detection engine, interactive incident investigation, graph relationship mapping, and compliance workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
